@@ -1,5 +1,6 @@
 Binance pump bot [python]
 Stable version for binance pump
+
 Version: 1.1
 
 Main features:
