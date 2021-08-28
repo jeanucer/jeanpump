@@ -7,7 +7,7 @@ Main features:
 3. Shows ROI (in %) after pump
 
 License:
-To start the software you need a license key
+To start the software you need a license key.
 After getting the key paste it into config.json
 
 Feedback = Telegram bot ==> @jeanucerbot  
