@@ -11,7 +11,6 @@ To start the software you need a license key.
 
 After getting the key paste it into config.json
 
-Feedback = Telegram bot ==> @jeanucerbot  
 
 Preview:
 ![image](https://user-images.githubusercontent.com/89002240/131226270-caa0c0d4-0a6e-4d9d-9bd0-56c51a1a14a1.png)
