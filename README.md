@@ -8,6 +8,7 @@ Main features:
 
 License:
 To start the software you need a license key.
+
 After getting the key paste it into config.json
 
 Feedback = Telegram bot ==> @jeanucerbot  
