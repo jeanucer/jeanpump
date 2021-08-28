@@ -2,12 +2,12 @@ Binance pump bot [python]
 Stable version for binance pump
 
 Version: 1.1
-
+-----------------------------------------------
 Main features:
 1. Quick buy and sell
 2. Coin selection
 3. Shows ROI (in %) after pump
-
+-----------------------------------------------
 License:
 To start the software you need a license key.
 
