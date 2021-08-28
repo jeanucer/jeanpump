@@ -12,3 +12,6 @@ To start the software you need a license key.
 After getting the key paste it into config.json
 
 Feedback = Telegram bot ==> @jeanucerbot  
+
+OPSWAT:
+![image](https://user-images.githubusercontent.com/89002240/131226117-2d987a03-999e-40dc-b7b3-068d0c172df2.png)
