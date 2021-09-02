@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/OLhf2Hv.jpg)
+![image](https://i.imgur.com/PsPMZmG.jpg)
 Binance pump bot [python]
 Stable version for binance pump
 
