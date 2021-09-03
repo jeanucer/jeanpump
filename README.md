@@ -24,6 +24,8 @@ OPSWAT:
 ![image](https://user-images.githubusercontent.com/89002240/131226117-2d987a03-999e-40dc-b7b3-068d0c172df2.png)
 PS. Because compiling with PYINSTALLER
 
-
+TODO LIST:
+1. Limit Sell: Sell the coin automatically upon reaching the specified price (you can set a percentage increase in config.json)
+2. Stop-Loss
 
 Feedback = Telegram bot ==> @jeanucerbot 
